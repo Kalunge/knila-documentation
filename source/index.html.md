@@ -7,7 +7,7 @@ Welcome to the Line 5 API! You can use our API to access Line 5  API endpoints, 
 Line 5 partners with dealers like you to fully fund vehicle protection plans for Automobiles, SUVs, Trucks and more. With guaranteed approvals and zero down payment requirements, your customers get the coverage they want at a payment they can afford. You sell more products and make more money.
 
 
-## Get All loans
+## Get All quotes
 
 This endpoint retrieves all kittens.
 
