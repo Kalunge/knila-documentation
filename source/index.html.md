@@ -1,31 +1,8 @@
----
-title: API Reference
 
-language_tabs: # must be one of https://git.io/vQNgJ
-  - shell
-  - ruby
-  - python
-  - javascript
-
-toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/slatedocs/slate'>Documentation Powered by Slate</a>
-
-includes:
-  - errors
-
-search: true
-
-code_clipboard: true
-
-meta:
-  - name: description
-    content: Documentation for the Kittn API
----
 
 # Introduction
 
-Welcome to the Line 5 API! You can use our API to access Line 5  API endpoints, which can get information loans.
+Welcome to the Line 5 API! You can use our API to access Line 5  API endpoints, which can get information and manage your loans and quotes.
 
 Line 5 partners with dealers like you to fully fund vehicle protection plans for Automobiles, SUVs, Trucks and more. With guaranteed approvals and zero down payment requirements, your customers get the coverage they want at a payment they can afford. You sell more products and make more money.
 
